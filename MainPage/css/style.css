@@ -1,0 +1,27 @@
+@font-face {
+  font-family: FSP;
+  src: url("/fonts/Fontspring-DEMO-boss-regular.otf") format("truetype");
+}
+
+h1,h2, h4, li{
+  font-family: FSP;
+}
+
+p{
+  font-family: FSP;
+}
+
+a{
+  font-family: FSP;
+}
+
+body {
+    background-image: url('../img/depositphotos_34652991-asphalt-road-and-perfect-green-field.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.navbar-brand {
+    background-color: yellow;
+  }
